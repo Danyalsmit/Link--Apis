@@ -4,8 +4,9 @@ h1{
 }
 p{
     background-color: blue;
-    color: red;
+    color: rgb(31, 196, 26);
     font-family:Arial, Helvetica, sans-serif
+    
 }
 h3{
     background-color: blue;
