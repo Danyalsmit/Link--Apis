@@ -1,3 +1,4 @@
 function foo(){
-    document.write("home")
+    document.write("this is my website")
+    
 }
