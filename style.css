@@ -1,27 +1,33 @@
-/* .container{
-    background-color: blueviolet; */
-/* h1{
-    background-color: rgb(128, 128, 177);
-    color: brown;
+#tad {
+background-color: rgb(113, 104, 134);
 }
-p{
-    background-color: rgb(128, 128, 177);
-    color: rgb(12, 12, 12);
-    font-family:Arial, Helvetica, sans-serif
+#red{
+    height: 60px;
+    width: 80px;
+    margin-left: -100px;
+}
+.gap{
+    display: flex;
+    /* border: 2px solid black; */
+    margin-right: 700px; 
     
 }
-h3{
-    background-color: rgb(128, 128, 177);
-    color: red;
+#sty{
+    background-color: blueviolet;
+}
+.navbar-brand{
+    /* border: 2px solid black; */
+    margin-left: 20px;
 
 }
-button{
-    background-color: rgb(128, 128, 177);
-    color: red;
+.card{
+    margin-top: 20px;
 }
-.nav{
-display:flex ;
-justify-content: center;
-background-color: aqua;
-color: red;
-} */ */
+.card-body{
+
+    background-color: rgb(4, 4, 46);
+}
+.card-title{
+    background-color: aqua;
+    color: beige; !important
+}
