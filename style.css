@@ -1,16 +1,28 @@
 #tad {
 background-color: rgb(113, 104, 134);
 }
+
+
 #red{
-    height: 60px;
+    height: 80px;
     width: 80px;
     margin-left: -100px;
 }
 .gap{
     display: flex;
-    /* border: 2px solid black; */
-    margin-right: 700px; 
+    border: 2px solid black;
+    width: 80%;
+
     
+}
+.d-flex{
+    margin-right: -70px;
+    /* padding: 20px,10px,10px,20px; */
+}
+#hg{
+width: auto;
+height: auto;
+
 }
 #sty{
     background-color: blueviolet;
@@ -25,9 +37,8 @@ background-color: rgb(113, 104, 134);
 }
 .card-body{
 
-    background-color: rgb(4, 4, 46);
+    background-color: rgb(66, 66, 156);
 }
 .card-title{
     background-color: aqua;
-    color: beige; !important
 }
