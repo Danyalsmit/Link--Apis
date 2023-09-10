@@ -1,4 +1,4 @@
 function foo(){
-    document.write("this is my website")
-    
+    let chan = document.getElementById("hg")
+  
 }
