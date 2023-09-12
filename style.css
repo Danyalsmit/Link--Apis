@@ -1,6 +1,4 @@
-#tad {
-background-color: rgb(113, 104, 134);
-}
+
 
 
 #red{
@@ -25,6 +23,10 @@ height: auto;
 }
 #sty{
     background-color: blueviolet;
+    height: 0%;
+    width: 1420px;
+    border-radius: 10px;
+
 }
 .navbar-brand{
     /* border: 2px solid black; */
