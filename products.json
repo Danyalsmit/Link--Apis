@@ -5,21 +5,85 @@
             "title": "Audi",
             "description": "An AUdi is the product of Honda",
             "price": 549,
-            "thumbnail": "http://digitalsynopsis.com/wp-content/uploads/2014/06/supercar-wallpapers-lamborghini-4.jpg"
+            "thumbnail": "http://www.hdcarwallpapers.com/download/lotus_hot_wheels_concept-1440x900.jpg"
         },
         {
             "id": 2,
-            "title": "Samsung Galaxy S20",
-            "description": "A popular Android smartphone",
-            "price": 699,
-            "thumbnail": "https://example.com/samsung-galaxy-s20.jpg"
+            "title": "Italian Cars",
+            "description": "Italian Cars – Italy’s greatest ",
+            "price": 679,
+            "thumbnail": "https://images.autodaily.com.au/2020/12/Lamborghini_Huracan_Evo_012.jpg"
         },
         {
             "id": 3,
-            "title": "Samsung Galaxy S20",
+            "title": "Sports Car",
             "description": "A popular Android smartphone",
             "price": 699,
-            "": "https://example.com/samsung-galaxy-s20.jpg"
+            "thumbnail": "https://cdn.wallpapersafari.com/85/50/kNnaUd.jpg"
+        },
+        {
+            "id": 4,
+            "title": " lamborghini, land vehicle",
+            "description": "Fastest Car In The World 2015 Fastest Car In The World",
+            "price": 699,
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.ZQYlABXD8zRAiiRJHOFq2gHaEA&pid=Api&P=0&h=220"
+        },
+        {
+            "id": 5,
+            "title": "Luxary Jeep",
+            "description": "Fastest Car In The World 2015 Fastest Car In The World",
+            "price": 1000,
+            "thumbnail": "https://wallpapercave.com/wp/wp7750447.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Honda Civic",
+            "description": "Fastest Car In The World 2015 Fastest Car In The World",
+            "price": 1300,
+            "thumbnail": "http://digitalsynopsis.com/wp-content/uploads/2014/06/supercar-wallpapers-lamborghini-4.jpg"
+        },
+        {
+            "id": 1,
+            "title": "Audi",
+            "description": "An AUdi is the product of Honda",
+            "price": 549,
+            "thumbnail": "http://www.hdcarwallpapers.com/download/lotus_hot_wheels_concept-1440x900.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Italian Cars",
+            "description": "Italian Cars – Italy’s greatest ",
+            "price": 679,
+            "thumbnail": "https://images.autodaily.com.au/2020/12/Lamborghini_Huracan_Evo_012.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Sports Car",
+            "description": "A popular Android smartphone",
+            "price": 699,
+            "thumbnail": "https://cdn.wallpapersafari.com/85/50/kNnaUd.jpg"
+        },
+        {
+            "id": 4,
+            "title": " lamborghini, land vehicle",
+            "description": "Fastest Car In The World 2015 Fastest Car In The World",
+            "price": 699,
+            "thumbnail": "https://tse1.mm.bing.net/th?id=OIP.ZQYlABXD8zRAiiRJHOFq2gHaEA&pid=Api&P=0&h=220"
+        },
+        {
+            "id": 5,
+            "title": "Luxary Jeep",
+            "description": "Fastest Car In The World 2015 Fastest Car In The World",
+            "price": 1000,
+            "thumbnail": "https://wallpapercave.com/wp/wp7750447.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Honda Civic",
+            "description": "Fastest Car In The World 2015 Fastest Car In The World",
+            "price": 1300,
+            "thumbnail": "http://digitalsynopsis.com/wp-content/uploads/2014/06/supercar-wallpapers-lamborghini-4.jpg"
         }
-    ]
+
+     ]
 }
