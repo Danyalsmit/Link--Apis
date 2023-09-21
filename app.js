@@ -1,10 +1,13 @@
-
+const dis = document.getElementById("display")
+const inp = document.getElementById("input")
 fetch('./products.json').then((data)=>{
     
-        return data.json();
+      return data.json();
     }).then((products)=>{
-        console.log(products)
+
+        
         let data1="";
+        
         products.products.map((values)=>{
             data1+=`
             <div class="card">
@@ -17,6 +20,9 @@ fetch('./products.json').then((data)=>{
             </div>`
             const get = document.getElementById("container")
             get.innerHTML=data1;
+            function check(products){
+              retutrn
+            }
         })
 
         
