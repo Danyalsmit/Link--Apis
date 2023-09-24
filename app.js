@@ -62,10 +62,11 @@
   
     const inp = document.getElementById("input");
     const dis = document.getElementById("display");
-    let data1 = ""; // Define data1
+   // Define data1
   
     function dispResult(results) {
       results.forEach(function (product) { // Change 'values' to 'product'
+        let data1 = "";
         data1 += `
         <div class="card">
           <img id="pic" src="${product.thumbnail}" class="card-img-top" alt="...">
