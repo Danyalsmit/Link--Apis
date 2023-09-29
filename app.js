@@ -1,3 +1,28 @@
+
+fetch('./products.json')
+.then((res) => {
+    return res.json();
+})
+.then((products) => {
+    console.log(products);
+    let data1 = ""; 
+    products.products.map((values) => {
+        data1 += `
+        <div class="card" style="width: 18rem;">
+          <img id="pic" src="${values.thumbnail}" height="200px" width="200px" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">${values.title}</h5>
+            <p class="card-text">${values.description}</p>
+            <p class="card-text">${values.price}</p>
+          </div>
+        </div>`;
+        const get = document.getElementById("container");
+        get.innerHTML = data1;
+    });
+})
+
+
+
 // (async function () {
 //     const response = await fetch('./products.json');
 //     const products = await response.json();
@@ -41,26 +66,4 @@
 //   });
 
 
-  fetch('./products.json')
-    .then((res) => {
-        return res.json();
-    })
-    .then((products) => {
-        console.log(products);
-        let data1 = ""; 
-        products.products.map((values) => {
-            data1 += `
-            <div class="card" style="width: 18rem;">
-              <img id="pic" src="${values.thumbnail}" height="200px" width="200px" class="card-img-top" alt="...">
-              <div class="card-body">
-                <h5 class="card-title">${values.title}</h5>
-                <p class="card-text">${values.description}</p>
-                <p class="card-text">${values.price}</p>
-              </div>
-            </div>`;
-            const get = document.getElementById("container");
-            get.innerHTML = data1;
-        });
-    })
-    
 

@@ -93,6 +93,13 @@
         },
         {
             "id": 14,
+            "title": "Luxary Jeep",
+            "description": "Fastest Car In The World 2015 Fastest Car In The World",
+            "price": 1000,
+            "thumbnail": "https://wallpapercave.com/wp/wp7750447.jpg"
+        },
+        {
+            "id": 15,
             "title": "Honda Civic",
             "description": "Fastest Car In The World 2015 Fastest Car In The World",
             "price": 1300,
