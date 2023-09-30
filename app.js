@@ -8,7 +8,7 @@ fetch('./products.json')
     let data1 = ""; 
     products.products.map((values) => {
         data1 += `
-        <div class="card" style="width: 18rem;">
+        <div class="card" style="width: 19rem;">
           <img id="pic" src="${values.thumbnail}" height="200px" width="200px" class="card-img-top" alt="...">
           <div class="card-body">
             <h5 class="card-title">${values.title}</h5>
